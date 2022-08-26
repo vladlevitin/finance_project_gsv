@@ -1,0 +1,699 @@
+Symbol,Name
+Bitcoin USDBTC-USD,Bitcoin USD
+Ethereum USDETH-USD,Ethereum USD
+Tether USDUSDT-USD,Tether USD
+USD Coin USDUSDC-USD,USD Coin USD
+Binance Coin USDBNB-USD,Binance Coin USD
+Binance USD USDBUSD-USD,Binance USD USD
+XRP USDXRP-USD,XRP USD
+Cardano USDADA-USD,Cardano USD
+Solana USDSOL-USD,Solana USD
+Dogecoin USDDOGE-USD,Dogecoin USD
+HEX USDHEX-USD,HEX USD
+Polkadot USDDOT-USD,Polkadot USD
+SHIBA INU USDSHIB-USD,SHIBA INU USD
+Dai USDDAI-USD,Dai USD
+Polygon USDMATIC-USD,Polygon USD
+Wrapped TRON USDWTRX-USD,Wrapped TRON USD
+Avalanche USDAVAX-USD,Avalanche USD
+TRON USDTRX-USD,TRON USD
+Lido stETH USDSTETH-USD,Lido stETH USD
+Wrapped Bitcoin USDWBTC-USD,Wrapped Bitcoin USD
+UNUS SED LEO USDLEO-USD,UNUS SED LEO USD
+Ethereum Classic USDETC-USD,Ethereum Classic USD
+UNI1-USD,Uniswap USD
+yOUcash USDYOUC-USD,yOUcash USD
+Litecoin USDLTC-USD,Litecoin USD
+FTX Token USDFTT-USD,FTX Token USD
+Cosmos USDATOM-USD,Cosmos USD
+Chainlink USDLINK-USD,Chainlink USD
+Crypto.com Coin USDCRO-USD,Crypto.com Coin USD
+NEAR Protocol USDNEAR-USD,NEAR Protocol USD
+Monero USDXMR-USD,Monero USD
+Stellar USDXLM-USD,Stellar USD
+Bitcoin Cash USDBCH-USD,Bitcoin Cash USD
+Bitcoin BEP2 USDBTCB-USD,Bitcoin BEP2 USD
+Algorand USDALGO-USD,Algorand USD
+Flow USDFLOW-USD,Flow USD
+VeChain USDVET-USD,VeChain USD
+XCN1-USD,Chain USD
+TONCOIN-USD,Toncoin USD
+EOS USDEOS-USD,EOS USD
+Filecoin USDFIL-USD,Filecoin USD
+Internet Computer USDICP-USD,Internet Computer USD
+APE3-USD,ApeCoin USD
+Decentraland USDMANA-USD,Decentraland USD
+Frax USDFRAX-USD,Frax USD
+The Sandbox USDSAND-USD,The Sandbox USD
+Tezos USDXTZ-USD,Tezos USD
+Hedera USDHBAR-USD,Hedera USD
+Chiliz USDCHZ-USD,Chiliz USD
+Wrapped BNB USDWBNB-USD,Wrapped BNB USD
+Quant USDQNT-USD,Quant USD
+Elrond USDEGLD-USD,Elrond USD
+Aave USDAAVE-USD,Aave USD
+THETA USDTHETA-USD,THETA USD
+Axie Infinity USDAXS-USD,Axie Infinity USD
+BIT1-USD,BitDAO USD
+TrueUSD USDTUSD-USD,TrueUSD USD
+Bitcoin SV USDBSV-USD,Bitcoin SV USD
+OKB USDOKB-USD,OKB USD
+Zcash USDZEC-USD,Zcash USD
+Pax Dollar USDUSDP-USD,Pax Dollar USD
+KuCoin Token USDKCS-USD,KuCoin Token USD
+BitTorrent USDBTT-USD,BitTorrent USD
+Terra USDLUNA1-USD,Terra USD
+BTT2-USD,BitTorrent (new) USD
+Huobi BTC USDHBTC-USD,Huobi BTC USD
+IOTA USDMIOTA-USD,IOTA USD
+Huobi Token USDHT-USD,Huobi Token USD
+Helium USDHNT-USD,Helium USD
+Maker USDMKR-USD,Maker USD
+USDD USDUSDD-USD,USDD USD
+Klaytn USDKLAY-USD,Klaytn USD
+GRT1-USD,The Graph USD
+Fantom USDFTM-USD,Fantom USD
+eCash USDXEC-USD,eCash USD
+Neutrino USD USDUSDN-USD,Neutrino USD USD
+THORChain USDRUNE-USD,THORChain USD
+Synthetix USDSNX-USD,Synthetix USD
+Neo USDNEO-USD,Neo USD
+PAX Gold USDPAXG-USD,PAX Gold USD
+Lido DAO Token USDLDO-USD,Lido DAO Token USD
+Curve DAO Token USDCRV-USD,Curve DAO Token USD
+PancakeSwap USDCAKE-USD,PancakeSwap USD
+Nexo USDNEXO-USD,Nexo USD
+Basic Attention Token USDBAT-USD,Basic Attention Token USD
+Waves USDWAVES-USD,Waves USD
+Dash USDDASH-USD,Dash USD
+Stacks USDSTX-USD,Stacks USD
+Zilliqa USDZIL-USD,Zilliqa USD
+Loopring USDLRC-USD,Loopring USD
+Enjin Coin USDENJ-USD,Enjin Coin USD
+DeFiChain USDDFI-USD,DeFiChain USD
+GMT3-USD,Green Metaverse Token USD
+Mina USDMINA-USD,Mina USD
+Decred USDDCR-USD,Decred USD
+Bitcoin Gold USDBTG-USD,Bitcoin Gold USD
+Tether Gold USDXAUT-USD,Tether Gold USD
+Kava USDKAVA-USD,Kava USD
+Fei USD USDFEI-USD,Fei USD USD
+Gnosis USDGNO-USD,Gnosis USD
+NEM USDXEM-USD,NEM USD
+1inch Network USD1INCH-USD,1inch Network USD
+Kusama USDKSM-USD,Kusama USD
+Arweave USDAR-USD,Arweave USD
+Celo USDCELO-USD,Celo USD
+Ankr USDANKR-USD,Ankr USD
+Holo USDHOT1-USD,Holo USD
+Convex Finance USDCVX-USD,Convex Finance USD
+Gala USDGALA-USD,Gala USD
+XDC Network USDXDC-USD,XDC Network USD
+Compound USDCOMP1-USD,Compound USD
+GateToken USDGT-USD,GateToken USD
+GensoKishi’s Metaverse USDMV-USD,GensoKishi’s Metaverse USD
+Osmosis USDOSMO-USD,Osmosis USD
+Theta Fuel USDTFUEL-USD,Theta Fuel USD
+Qtum USDQTUM-USD,Qtum USD
+NXM USDNXM-USD,NXM USD
+yearn.finance USDYFI-USD,yearn.finance USD
+Oasis Network USDROSE-USD,Oasis Network USD
+Counos X USDCCXX-USD,Counos X USD
+Ravencoin USDRVN-USD,Ravencoin USD
+Kadena USDKDA-USD,Kadena USD
+SafeMoon USDSAFEMOON-USD,SafeMoon USD
+Gemini Dollar USDGUSD-USD,Gemini Dollar USD
+Kyber Network Crystal v2 USDKNC-USD,Kyber Network Crystal v2 USD
+IoTeX USDIOTX-USD,IoTeX USD
+Amp USDAMP-USD,Amp USD
+ZEON USDZEON-USD,ZEON USD
+Threshold USDT-USD,Threshold USD
+BORA USDBORA-USD,BORA USD
+WEMIX USDWEMIX-USD,WEMIX USD
+Livepeer USDLPT-USD,Livepeer USD
+TerraUSD USDUST-USD,TerraUSD USD
+Balancer USDBAL-USD,Balancer USD
+Symbol USDXYM-USD,Symbol USD
+OMG Network USDOMG-USD,OMG Network USD
+BinaryX USDBNX-USD,BinaryX USD
+ONE1-USD,Harmony USD
+OP1-USD,Optimism USD
+Ethereum Name Service USDENS-USD,Ethereum Name Service USD
+ICON USDICX-USD,ICON USD
+0x USDZRX-USD,0x USD
+JUST USDJST-USD,JUST USD
+Golem USDGLM-USD,Golem USD
+Reserve Rights USDRSR-USD,Reserve Rights USD
+SAFE1-USD,Safe USD
+IOST USDIOST-USD,IOST USD
+Audius USDAUDIO-USD,Audius USD
+Hive USDHIVE-USD,Hive USD
+Storj USDSTORJ-USD,Storj USD
+Rocket Pool USDRPL-USD,Rocket Pool USD
+Flux USDFLUX-USD,Flux USD
+Celsius USDCEL-USD,Celsius USD
+LINK USDLN-USD,LINK USD
+WAX USDWAXP-USD,WAX USD
+Ontology USDONT-USD,Ontology USD
+LUNA2-USD,Terra USD
+Serum USDSRM-USD,Serum USD
+Fruits USDFRTS-USD,Fruits USD
+Siacoin USDSC-USD,Siacoin USD
+Moonbeam USDGLMR-USD,Moonbeam USD
+Horizen USDZEN-USD,Horizen USD
+Braintrust USDBTRST-USD,Braintrust USD
+Secret USDSCRT-USD,Secret USD
+MXC USDMXC-USD,MXC USD
+Liquity USD USDLUSD-USD,Liquity USD USD
+UMA USDUMA-USD,UMA USD
+ABBC Coin USDABBC-USD,ABBC Coin USD
+Swipe USDSXP-USD,Swipe USD
+IMX1-USD,Immutable X USD
+Chia Network USDXCH-USD,Chia Network USD
+Metaverse Dualchain Network Architecture USDDNA1-USD,Metaverse Dualchain Network Architecture USD
+Bitcoin Standard Hashrate Token USDBTCST-USD,Bitcoin Standard Hashrate Token USD
+SKALE Network USDSKL-USD,SKALE Network USD
+Polymath USDPOLY-USD,Polymath USD
+WOO Network USDWOO-USD,WOO Network USD
+SwissBorg USDCHSB-USD,SwissBorg USD
+SYN1-USD,Synapse USD
+Voyager Token USDVGX-USD,Voyager Token USD
+Smooth Love Potion USDSLP-USD,Smooth Love Potion USD
+Casper USDCSPR-USD,Casper USD
+DigiByte USDDGB-USD,DigiByte USD
+Dogelon Mars USDELON-USD,Dogelon Mars USD
+HUSD USDHUSD-USD,HUSD USD
+NFT1-USD,APENFT USD
+Baby Doge Coin USDBABYDOGE-USD,Baby Doge Coin USD
+VVS Finance USDVVS-USD,VVS Finance USD
+DAO Maker USDDAO-USD,DAO Maker USD
+PLA3-USD,PlayDapp USD
+Astar USDASTR-USD,Astar USD
+ssv.network USDSSV-USD,ssv.network USD
+Civic USDCVC-USD,Civic USD
+CEEK VR USDCEEK-USD,CEEK VR USD
+MetisDAO USDMETIS-USD,MetisDAO USD
+Spell Token USDSPELL-USD,Spell Token USD
+SushiSwap USDSUSHI-USD,SushiSwap USD
+Lisk USDLSK-USD,Lisk USD
+Keep Network USDKEEP-USD,Keep Network USD
+Pundi X[new] USDPUNDIX-USD,Pundi X USD
+Energy Web Token USDEWT-USD,Energy Web Token USD
+EPS1-USD,Ellipsis USD
+Nervos Network USDCKB-USD,Nervos Network USD
+Render Token USDRNDR-USD,Render Token USD
+MaidSafeCoin USDMAID-USD,MaidSafeCoin USD
+MediBloc USDMED-USD,MediBloc USD
+Humanscape USDHUM-USD,Humanscape USD
+Celer Network USDCELR-USD,Celer Network USD
+Centrifuge USDCFG-USD,Centrifuge USD
+Radio Caca USDRACA-USD,Radio Caca USD
+MVL USDMVL-USD,MVL USD
+STASIS EURO USDEURS-USD,STASIS EURO USD
+Conflux USDCFX-USD,Conflux USD
+Chainbing USDCBG-USD,Chainbing USD
+STG1-USD,Stargate Finance USD
+Ren USDREN-USD,Ren USD
+Nano USDXNO-USD,Nano USD
+LooksRare USDLOOKS-USD,LooksRare USD
+WINkLink USDWIN-USD,WINkLink USD
+Injective Protocol USDINJ-USD,Injective Protocol USD
+ONG1-USD,Ontology Gas USD
+NuCypher USDNU-USD,NuCypher USD
+PlatonCoin USDPLTC-USD,PlatonCoin USD
+Everscale USDEVER-USD,Everscale USD
+ConstitutionDAO USDPEOPLE-USD,ConstitutionDAO USD
+Wrapped Everscale USDWEVER-USD,Wrapped Everscale USD
+Request USDREQ-USD,Request USD
+Orbs USDORBS-USD,Orbs USD
+dYdX USDDYDX-USD,dYdX USD
+Function X USDFX-USD,Function X USD
+USDX2-USD,USDX [Kava] USD
+Ardor USDARDR-USD,Ardor USD
+Ultra USDUOS-USD,Ultra USD
+Rally USDRLY-USD,Rally USD
+Numeraire USDNMR-USD,Numeraire USD
+Tribe USDTRIBE-USD,Tribe USD
+Powerledger USDPOWR-USD,Powerledger USD
+MX Token USDMX-USD,MX Token USD
+Venus USDC USDVUSDC-USD,Venus USDC USD
+iExec RLC USDRLC-USD,iExec RLC USD
+Ergo USDERG-USD,Ergo USD
+Orbit Chain USDORC-USD,Orbit Chain USD
+sUSD USDSUSD-USD,sUSD USD
+COTI USDCOTI-USD,COTI USD
+Status USDSNT-USD,Status USD
+Prometeus USDPROM-USD,Prometeus USD
+Velas USDVLX-USD,Velas USD
+Anyswap USDANY-USD,Anyswap USD
+XYO USDXYO-USD,XYO USD
+Telcoin USDTEL-USD,Telcoin USD
+API3 USDAPI3-USD,API3 USD
+ACA1-USD,Acala Token USD
+Wrapped Velas USDWVLX-USD,Wrapped Velas USD
+MCT3-USD,Metacraft USD
+Frax Share USDFXS-USD,Frax Share USD
+AVINOC USDAVINOC-USD,AVINOC USD
+Constellation USDDAG-USD,Constellation USD
+Ocean Protocol USDOCEAN-USD,Ocean Protocol USD
+Chromia USDCHR-USD,Chromia USD
+Bancor USDBNT-USD,Bancor USD
+Dent USDDENT-USD,Dent USD
+NEST Protocol USDNEST-USD,NEST Protocol USD
+Syscoin USDSYS-USD,Syscoin USD
+Steem USDSTEEM-USD,Steem USD
+GAL2-USD,Project Galaxy USD
+Cartesi USDCTSI-USD,Cartesi USD
+Raydium USDRAY-USD,Raydium USD
+FUNToken USDFUN-USD,FUNToken USD
+Uquid Coin USDUQC-USD,Uquid Coin USD
+Stratis USDSTRAX-USD,Stratis USD
+Coin98 USDC98-USD,Coin98 USD
+Augur USDREP-USD,Augur USD
+OriginTrail USDTRAC-USD,OriginTrail USD
+Biswap USDBSW-USD,Biswap USD
+REV1-USD,Revain USD
+Pirate Chain USDARRR-USD,Pirate Chain USD
+Vulcan Forged PYR USDPYR-USD,Vulcan Forged PYR USD
+BICONOMY (BICO) USDBICO-USD,BICONOMY (BICO) USD
+Maple USDMPL-USD,Maple USD
+Hxro USDHXRO-USD,Hxro USD
+JOE USDJOE-USD,JOE USD
+Adshares USDADS-USD,Adshares USD
+StormX USDSTMX-USD,StormX USD
+AURORA1-USD,Aurora USD
+Metal USDMTL-USD,Metal USD
+Liquity USDLQTY-USD,Liquity USD
+LUKSO USDLYXE-USD,LUKSO USD
+Persistence USDXPRT-USD,Persistence USD
+MobileCoin USDMOB-USD,MobileCoin USD
+CertiK USDCTK-USD,CertiK USD
+BFC1-USD,Bifrost (BFC) USD
+WazirX USDWRX-USD,WazirX USD
+inSure DeFi USDSURE-USD,inSure DeFi USD
+Euro Coin USDEUROC-USD,Euro Coin USD
+Creditcoin USDCTC-USD,Creditcoin USD
+Standard Tokenization Protocol USDSTPT-USD,Standard Tokenization Protocol USD
+Reef USDREEF-USD,Reef USD
+MDX1-USD,Mdex USD
+VeThor Token USDVTHO-USD,VeThor Token USD
+Ampleforth Governance Token USDFORTH-USD,Ampleforth Governance Token USD
+aelf USDELF-USD,aelf USD
+Orchid USDOXT-USD,Orchid USD
+WhiteCoin USDXWC-USD,WhiteCoin USD
+renBTC USDRENBTC-USD,renBTC USD
+Rakon USDRKN-USD,Rakon USD
+UFO2-USD,UFO Gaming USD
+NKN USDNKN-USD,NKN USD
+Boba Network USDBOBA-USD,Boba Network USD
+Origin Protocol USDOGN-USD,Origin Protocol USD
+Freeway Token USDFWT-USD,Freeway Token USD
+Loom Network USDLOOM-USD,Loom Network USD
+Seedify.fund USDSFUND-USD,Seedify.fund USD
+AMA2-USD,Mrweb Finance V2 USD
+Alchemy Pay USDACH-USD,Alchemy Pay USD
+Veritaseum USDVERI-USD,Veritaseum USD
+Moonriver USDMOVR-USD,Moonriver USD
+Alien Worlds USDTLM-USD,Alien Worlds USD
+Perpetual Protocol USDPERP-USD,Perpetual Protocol USD
+SOMESING USDSSX-USD,SOMESING USD
+RSK Smart Bitcoin USDRBTC-USD,RSK Smart Bitcoin USD
+QuarkChain USDQKC-USD,QuarkChain USD
+Venus USDXVS-USD,Venus USD
+MyNeighborAlice USDALICE-USD,MyNeighborAlice USD
+Fetch.ai USDFET-USD,Fetch.ai USD
+Aleph.im USDALEPH-USD,Aleph.im USD
+Dawn Protocol USDDAWN-USD,Dawn Protocol USD
+BarnBridge USDBOND-USD,BarnBridge USD
+Tellor USDTRB-USD,Tellor USD
+Aragon USDANT-USD,Aragon USD
+Metadium USDMETA-USD,Metadium USD
+1eco USD1ECO-USD,1eco USD
+Strike USDSTRK-USD,Strike USD
+Yield Guild Games USDYGG-USD,Yield Guild Games USD
+Ark USDARK-USD,Ark USD
+Rari Governance Token USDRGT-USD,Rari Governance Token USD
+Bloktopia USDBLOK-USD,Bloktopia USD
+Aavegotchi USDGHST-USD,Aavegotchi USD
+Sologenic USDSOLO-USD,Sologenic USD
+HedgeTrade USDHEDG-USD,HedgeTrade USD
+Wirex Token USDWXT-USD,Wirex Token USD
+TitanSwap USDTITAN-USD,TitanSwap USD
+Sun (New) USDSUN-USD,Sun (New) USD
+Utrust USDUTK-USD,Utrust USD
+Locus Chain USDLOCUS-USD,Locus Chain USD
+RSK Infrastructure Framework USDRIF-USD,RSK Infrastructure Framework USD
+GlitzKoin USDGTN-USD,GlitzKoin USD
+Venus BUSD USDVBUSD-USD,Venus BUSD USD
+Everipedia USDIQ-USD,Everipedia USD
+cVault.finance USDCORE-USD,cVault.finance USD
+Santos FC Fan Token USDSANTOS-USD,Santos FC Fan Token USD
+Propy USDPRO-USD,Propy USD
+MovieBloc USDMBL-USD,MovieBloc USD
+Centrality USDCENNZ-USD,Centrality USD
+bZx Protocol USDBZRX-USD,bZx Protocol USD
+Beta Finance USDBETA-USD,Beta Finance USD
+Alpha Finance Lab USDALPHA-USD,Alpha Finance Lab USD
+ASD USDASD-USD,ASD USD
+Vai USDVAI-USD,Vai USD
+Illuvium USDILV-USD,Illuvium USD
+SUPER1-USD,SuperFarm USD
+Ampleforth USDAMPL-USD,Ampleforth USD
+Telos USDTLOS-USD,Telos USD
+GXChain USDGXC-USD,GXChain USD
+Hifi Finance USDMFT-USD,Hifi Finance USD
+DEAPcoin USDDEP-USD,DEAPcoin USD
+XSGD USDXSGD-USD,XSGD USD
+Dusk Network USDDUSK-USD,Dusk Network USD
+Mines of Dalarnia USDDAR-USD,Mines of Dalarnia USD
+Polkastarter USDPOLS-USD,Polkastarter USD
+Thunder Token USDTT-USD,Thunder Token USD
+Verasity USDVRA-USD,Verasity USD
+Celo Dollar USDCUSD-USD,Celo Dollar USD
+Decentralized Social USDDESO-USD,Decentralized Social USD
+Verge USDXVG-USD,Verge USD
+Aergo USDAERGO-USD,Aergo USD
+MOBOX USDMBOX-USD,MOBOX USD
+dKargo USDDKA-USD,dKargo USD
+BakeryToken USDBAKE-USD,BakeryToken USD
+Enzyme USDMLN-USD,Enzyme USD
+XCAD Network USDXCAD-USD,XCAD Network USD
+Badger DAO USDBADGER-USD,Badger DAO USD
+YooShi USDYOOSHI-USD,YooShi USD
+Dero USDDERO-USD,Dero USD
+DeFi Pulse Index USDDPI-USD,DeFi Pulse Index USD
+EFFORCE USDWOZX-USD,EFFORCE USD
+Origin Dollar USDOUSD-USD,Origin Dollar USD
+LCX USDLCX-USD,LCX USD
+ONUS USDONUS-USD,ONUS USD
+Astrafer USDASTRAFER-USD,Astrafer USD
+WMT1-USD,World Mobile Token USD
+Divi USDDIVI-USD,Divi USD
+TomoChain USDTOMO-USD,TomoChain USD
+Electroneum USDETN-USD,Electroneum USD
+HUNT USDHUNT-USD,HUNT USD
+Super Zero Protocol USDSERO-USD,Super Zero Protocol USD
+ARPA Chain USDARPA-USD,ARPA Chain USD
+Proton USDXPR-USD,Proton USD
+Cocos-BCX USDCOCOS-USD,Cocos-BCX USD
+XMON USDXMON-USD,XMON USD
+IDEX USDIDEX-USD,IDEX USD
+SingularityNET USDAGIX-USD,SingularityNET USD
+H2O3-USD,H2O Dao USD
+S.S. Lazio Fan Token USDLAZIO-USD,S.S. Lazio Fan Token USD
+AXEL USDAXEL-USD,AXEL USD
+Mango USDMNGO-USD,Mango USD
+Komodo USDKMD-USD,Komodo USD
+Band Protocol USDBAND-USD,Band Protocol USD
+e-Radix USDEXRD-USD,e-Radix USD
+Aetherius USDAETH-USD,Aetherius USD
+Splintershards USDSPS-USD,Splintershards USD
+Alpine F1 Team Fan Token USDALPINE-USD,Alpine F1 Team Fan Token USD
+Cult DAO USDCULT-USD,Cult DAO USD
+Chrono.tech USDTIME-USD,Chrono.tech USD
+Marlin USDPOND-USD,Marlin USD
+FC Porto Fan Token USDPORTO-USD,FC Porto Fan Token USD
+SafePal USDSFP-USD,SafePal USD
+JasmyCoin USDJASMY-USD,JasmyCoin USD
+Bluzelle USDBLZ-USD,Bluzelle USD
+Akash Network USDAKT-USD,Akash Network USD
+RichQUACK.com USDQUACK-USD,RichQUACK.com USD
+AMA1-USD,Mrweb Finance USD
+mStable USD USDMUSD-USD,mStable USD USD
+Orion Protocol USDORN-USD,Orion Protocol USD
+Carry USDCRE-USD,Carry USD
+Ribbon Finance USDRBN-USD,Ribbon Finance USD
+RAMP USDRAMP-USD,RAMP USD
+Hyperion USDHYN-USD,Hyperion USD
+Starlink USDSTARL-USD,Starlink USD
+Travala.com USDAVA-USD,Travala.com USD
+Syntropy USDNOIA-USD,Syntropy USD
+AIOZ Network USDAIOZ-USD,AIOZ Network USD
+RISE1-USD,EverRise USD
+MASK1-USD,Mask Network USD
+Alchemix USDALCX-USD,Alchemix USD
+Samoyedcoin USDSAMO-USD,Samoyedcoin USD
+Flamingo USDFLM-USD,Flamingo USD
+XeniosCoin USDXNC-USD,XeniosCoin USD
+CONUN USDCON-USD,CONUN USD
+Wanchain USDWAN-USD,Wanchain USD
+Elastos USDELA-USD,Elastos USD
+Chimpion USDBNANA-USD,Chimpion USD
+TROY USDTROY-USD,TROY USD
+Vega Protocol USDVEGA-USD,Vega Protocol USD
+DFI.Money USDYFII-USD,DFI.Money USD
+BitMart Token USDBMX-USD,BitMart Token USD
+Alpaca Finance USDALPACA-USD,Alpaca Finance USD
+RSS3 USDRSS3-USD,RSS3 USD
+Wrapped KardiaChain USDWKAI-USD,Wrapped KardiaChain USD
+TRU1-USD,TrueFi USD
+Unifi Protocol DAO USDUNFI-USD,Unifi Protocol DAO USD
+KardiaChain USDKAI-USD,KardiaChain USD
+FLETA USDFLETA-USD,FLETA USD
+Neutrino Token USDNSBT-USD,Neutrino Token USD
+CargoX USDCXO-USD,CargoX USD
+Alpha Quark Token USDAQT-USD,Alpha Quark Token USD
+MEVerse USDMEV-USD,MEVerse USD
+QI1-USD,BENQI USD
+Terra Virtua Kolect USDTVK-USD,Terra Virtua Kolect USD
+LINA1-USD,Linear USD
+Moss Coin USDMOC-USD,Moss Coin USD
+KILT Protocol USDKILT-USD,KILT Protocol USD
+ONBUFF USDONIT-USD,ONBUFF USD
+Refereum USDRFR-USD,Refereum USD
+REI1-USD,REI Network USD
+LTO Network USDLTO-USD,LTO Network USD
+Celo Euro USDCEUR-USD,Celo Euro USD
+DxChain Token USDDX-USD,DxChain Token USD
+LATOKEN USDLA-USD,LATOKEN USD
+Bella Protocol USDBEL-USD,Bella Protocol USD
+Steem Dollars USDSBD-USD,Steem Dollars USD
+Venus USDT USDVUSDT-USD,Venus USDT USD
+KOK USDKOK-USD,KOK USD
+Qredo USDQRDO-USD,Qredo USD
+GTC2-USD,Gitcoin USD
+FCT1-USD,FirmaChain USD
+MonaCoin USDMONA-USD,MonaCoin USD
+Presearch USDPRE-USD,Presearch USD
+BitShares USDBTS-USD,BitShares USD
+Karura USDKAR-USD,Karura USD
+DIA USDDIA-USD,DIA USD
+Handshake USDHNS-USD,Handshake USD
+Merit Circle USDMC-USD,Merit Circle USD
+RIZON USDATOLO-USD,RIZON USD
+DG2-USD,Decentral Games USD
+Sport and Leisure USDSNL-USD,Sport and Leisure USD
+Sentinel Protocol USDUPP-USD,Sentinel Protocol USD
+CoinLoan USDCLT-USD,CoinLoan USD
+HERO1-USD,Metahero USD
+ALT1-USD,Alitas USD
+Nestree USDEGG-USD,Nestree USD
+WING1-USD,Wing Finance USD
+Nash USDNEX-USD,Nash USD
+Toko Token USDTKO-USD,Toko Token USD
+Aeternity USDAE-USD,Aeternity USD
+RMRK USDRMRK-USD,RMRK USD
+Hathor USDHTR-USD,Hathor USD
+Circuits of Value USDCOVAL-USD,Circuits of Value USD
+Contentos USDCOS-USD,Contentos USD
+Assemble Protocol USDASM-USD,Assemble Protocol USD
+Clover Finance USDCLV-USD,Clover Finance USD
+Cobak Token USDCBK-USD,Cobak Token USD
+Bitcoin Diamond USDBCD-USD,Bitcoin Diamond USD
+ANC1-USD,Anchor Protocol USD
+LeverFi USDLEVER-USD,LeverFi USD
+Automata Network USDATA-USD,Automata Network USD
+Phantasma USDSOUL-USD,Phantasma USD
+SOS1-USD,OpenDAO USD
+Harvest Finance USDFARM-USD,Harvest Finance USD
+Tokenlon Network Token USDLON-USD,Tokenlon Network Token USD
+Reserve USDRSV-USD,Reserve USD
+RAI Finance USDSOFI-USD,RAI Finance USD
+MiL.k USDMLK-USD,MiL.k USD
+USDK USDUSDK-USD,USDK USD
+BIFI1-USD,Beefy Finance USD
+smARTOFGIVING USDAOG-USD,smARTOFGIVING USD
+FIO Protocol USDFIO-USD,FIO Protocol USD
+Hoo Token USDHOO-USD,Hoo Token USD
+Phala Network USDPHA-USD,Phala Network USD
+hi Dollar USDHI-USD,hi Dollar USD
+Pitbull USDPIT-USD,Pitbull USD
+Bridge Oracle USDBRG-USD,Bridge Oracle USD
+Kava Lend USDHARD-USD,Kava Lend USD
+IRISnet USDIRIS-USD,IRISnet USD
+Paris Saint-Germain Fan Token USDPSG-USD,Paris Saint-Germain Fan Token USD
+CoinEx Token USDCET-USD,CoinEx Token USD
+GMT1-USD,GMT Token USD
+TokenPocket USDTPT-USD,TokenPocket USD
+Burger Swap USDBURGER-USD,Burger Swap USD
+district0x USDDNT-USD,district0x USD
+Gods Unchained USDGODS-USD,Gods Unchained USD
+Wrapped NXM USDWNXM-USD,Wrapped NXM USD
+LIT1-USD,Litentry USD
+Dvision Network USDDVI-USD,Dvision Network USD
+Boson Protocol USDBOSON-USD,Boson Protocol USD
+Groestlcoin USDGRS-USD,Groestlcoin USD
+Ethernity Chain USDERN-USD,Ethernity Chain USD
+AMO Coin USDAMO-USD,AMO Coin USD
+Rarible USDRARI-USD,Rarible USD
+ICHI USDICHI-USD,ICHI USD
+Cortex USDCTXC-USD,Cortex USD
+Gas USDGAS-USD,Gas USD
+Hoge Finance USDHOGE-USD,Hoge Finance USD
+Shapeshift FOX Token USDFOX-USD,Shapeshift FOX Token USD
+MANTRA DAO USDOM-USD,MANTRA DAO USD
+PlatON USDLAT-USD,PlatON USD
+Unibright USDUBT-USD,Unibright USD
+PolySwarm USDNCT-USD,PolySwarm USD
+STAKE USDSTAKE-USD,STAKE USD
+Misbloc USDMSB-USD,Misbloc USD
+DeversiFi USDDVF-USD,DeversiFi USD
+Ooki Protocol USDOOKI-USD,Ooki Protocol USD
+Firo USDFIRO-USD,Firo USD
+Adventure Gold USDAGLD-USD,Adventure Gold USD
+Klever USDKLV-USD,Klever USD
+FC Barcelona Fan Token USDBAR-USD,FC Barcelona Fan Token USD
+Hydra USDHYDRA-USD,Hydra USD
+Shiba Predator USDQOM-USD,Shiba Predator USD
+Keep3rV1 USDKP3R-USD,Keep3rV1 USD
+apM Coin USDAPM-USD,apM Coin USD
+Venus XVS USDVXVS-USD,Venus XVS USD
+ZIMBOCASH USDZASH-USD,ZIMBOCASH USD
+Aion USDAION-USD,Aion USD
+MagicCraft USDMCRT-USD,MagicCraft USD
+Streamr USDDATA-USD,Streamr USD
+SOLVE USDSOLVE-USD,SOLVE USD
+Kin USDKIN-USD,Kin USD
+Wilder World USDWILD-USD,Wilder World USD
+TerraKRW USDKRT-USD,TerraKRW USD
+Mithril USDMITH-USD,Mithril USD
+CUDOS USDCUDOS-USD,CUDOS USD
+ERC20 USDERC20-USD,ERC20 USD
+CHESS1-USD,Tranchess USD
+SONM (BEP-20) USDSNM-USD,SONM (BEP-20) USD
+Ultiledger USDULT-USD,Ultiledger USD
+Time New Bank USDTNB-USD,Time New Bank USD
+Selfkey USDKEY-USD,Selfkey USD
+Efinity Token USDEFI-USD,Efinity Token USD
+Ambire AdEx USDADX-USD,Ambire AdEx USD
+Elitium USDEUM-USD,Elitium USD
+Waltonchain USDWTC-USD,Waltonchain USD
+Student Coin USDSTC-USD,Student Coin USD
+Deeper Network USDDPR-USD,Deeper Network USD
+MimbleWimbleCoin USDMWC-USD,MimbleWimbleCoin USD
+KeeperDAO USDROOK-USD,KeeperDAO USD
+CITY1-USD,Manchester City Fan Token USD
+MAP Protocol USDMAP-USD,MAP Protocol USD
+Swarm USDBZZ-USD,Swarm USD
+Frontier USDFRONT-USD,Frontier USD
+1irstcoin USDFST-USD,1irstcoin USD
+Newscrypto USDNWC-USD,Newscrypto USD
+NULS USDNULS-USD,NULS USD
+QuickSwap USDQUICK-USD,QuickSwap USD
+ALI2-USD,Alethea Artificial Liquid Intelligence Token USD
+DXdao USDDXD-USD,DXdao USD
+GENE1-USD,Genopets USD
+MixMarvel USDMIX-USD,MixMarvel USD
+HyperDAO USDHDAO-USD,HyperDAO USD
+Morpheus.Network USDMNW-USD,Morpheus.Network USD
+Spookyswap USDBOO-USD,Spookyswap USD
+Spookyswap USDBOO-USD,Spookyswap USD
+Beam USDBEAM-USD,Beam USD
+TrustSwap USDSWAP-USD,TrustSwap USD
+AhaToken USDAHT-USD,AhaToken USD
+Maro USDMARO-USD,Maro USD
+RARE1-USD,SuperRare USD
+Tokemak USDTOKE-USD,Tokemak USD
+PARSIQ USDPRQ-USD,PARSIQ USD
+Gifto USDGTO-USD,Gifto USD
+Inflation Hedging Coin USDIHC-USD,Inflation Hedging Coin USD
+Somnium Space Cubes USDCUBE-USD,Somnium Space Cubes USD
+DerivaDAO USDDDX-USD,DerivaDAO USD
+Router Protocol USDROUTE-USD,Router Protocol USD
+GYEN USDGYEN-USD,GYEN USD
+GST2-USD,GST USD
+Velo USDVELO-USD,Velo USD
+Bonfida USDFIDA-USD,Bonfida USD
+Stafi USDFIS-USD,Stafi USD
+Drep [new] USDDREP-USD,Drep [new] USD
+DAD USDDAD-USD,DAD USD
+VerusCoin USDVRSC-USD,VerusCoin USD
+Cratos USDCRTS-USD,Cratos USD
+Voxies USDVOXEL-USD,Voxies USD
+Woodcoin USDLOG-USD,Woodcoin USD
+ApolloX USDAPX-USD,ApolloX USD
+DeRace USDDERC-USD,DeRace USD
+Akropolis USDAKRO-USD,Akropolis USD
+Aurory USDAURY-USD,Aurory USD
+Bytom USDBTM-USD,Bytom USD
+Energi USDNRG-USD,Energi USD
+Sperax USDSPA-USD,Sperax USD
+Covalent USDCQT-USD,Covalent USD
+SIX USDSIX-USD,SIX USD
+DFG1-USD,Defigram USD
+GET Protocol USDGET-USD,GET Protocol USD
+SHPING USDSHPING-USD,SHPING USD
+BTSE USDBTSE-USD,BTSE USD
+YLD1-USD,YIELD App USD
+Highstreet USDHIGH-USD,Highstreet USD
+WaykiChain USDWICC-USD,WaykiChain USD
+MARINADE STAKED SOL USDMSOL-USD,MARINADE STAKED SOL USD
+TABOO TOKEN USDTABOO-USD,TABOO TOKEN USD
+Measurable Data Token USDMDT-USD,Measurable Data Token USD
+Hermez Network USDHEZ-USD,Hermez Network USD
+Kleros USDPNK-USD,Kleros USD
+Dock USDDOCK-USD,Dock USD
+HOPR USDHOPR-USD,HOPR USD
+Fusion USDFSN-USD,Fusion USD
+XNO1-USD,Xeno Token USD
+Krypton DAO USDKRD-USD,Krypton DAO USD
+BOSAGORA USDBOA-USD,BOSAGORA USD
+Dego Finance USDDEGO-USD,Dego Finance USD
+Grid+ USDGRID-USD,Grid+ USD
+MileVerse USDMVC-USD,MileVerse USD
+Vectorspace AI USDVXV-USD,Vectorspace AI USD
+MATH USDMATH-USD,MATH USD
+Kryll USDKRL-USD,Kryll USD
+Pluton USDPLU-USD,Pluton USD
+Auto USDAUTO-USD,Auto USD
+Handy USDHANDY-USD,Handy USD
+DigixDAO USDDGD-USD,DigixDAO USD
+All Sports USDSOC-USD,All Sports USD
+Adappter Token USDADP-USD,Adappter Token USD
+Neblio USDNEBL-USD,Neblio USD
+Bounce Finance Governance Token USDAUCTION-USD,Bounce Finance Governance Token USD
+DeXe USDDEXE-USD,DeXe USD
+dForce USDDF-USD,dForce USD
+Rai Reflex Index USDRAI-USD,Rai Reflex Index USD
+Namecoin USDNMC-USD,Namecoin USD
+Electric Vehicle Zone USDEVZ-USD,Electric Vehicle Zone USD
+Solend USDSLND-USD,Solend USD
+BIDR USDBIDR-USD,BIDR USD
+PEAKDEFI USDPEAK-USD,PEAKDEFI USD
+Haven Protocol USDXHV-USD,Haven Protocol USD
+USDJ USDUSDJ-USD,USDJ USD
+BASIC USDBASIC-USD,BASIC USD
+Zebec Protocol USDZBC-USD,Zebec Protocol USD
+PRIZM USDPZM-USD,PRIZM USD
+DODO USDDODO-USD,DODO USD
+RFOX USDRFOX-USD,RFOX USD
+VIMworld USDVEED-USD,VIMworld USD
+AirSwap USDAST-USD,AirSwap USD
+SingularityDAO USDSDAO-USD,SingularityDAO USD
+DigitalBits USDXDB-USD,DigitalBits USD
+PNT1-USD,pNetwork USD
+Quantstamp USDQSP-USD,Quantstamp USD
+VIDT Datalink USDVIDT-USD,VIDT Datalink USD
+SUKU USDSUKU-USD,SUKU USD
+Arcblock USDABT-USD,Arcblock USD
+ACM1-USD,AC Milan Fan Token USD
+League of Kingdoms Arena USDLOKA-USD,League of Kingdoms Arena USD
+Bitball Treasure USDBTRS-USD,Bitball Treasure USD
+VITE USDVITE-USD,VITE USD
+PowerPool USDCVP-USD,PowerPool USD
+Valobit USDVBIT-USD,Valobit USD
+Gari Network USDGARI-USD,Gari Network USD
+GST5-USD,Green Satoshi Token (ETH) USD
+Star Atlas USDATLAS-USD,Star Atlas USD
+Oxen USDOXEN-USD,Oxen USD
+Mirror Protocol USDMIR1-USD,Mirror Protocol USD

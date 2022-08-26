@@ -1,0 +1,699 @@
+Ticker,Name,lower_name
+BTC-USD,Bitcoin,bitcoin
+ETH-USD,Ethereum,ethereum
+USDT-USD,Tether,tether
+USDC-USD,USD Coin,usd coin
+BNB-USD,Binance Coin,binance coin
+,Binance,binance
+XRP-USD,XRP,xrp
+ADA-USD,Cardano,cardano
+SOL-USD,Solana,solana
+DOGE-USD,Dogecoin,dogecoin
+HEX-USD,HEX,hex
+DOT-USD,Polkadot,polkadot
+SHIB-USD,SHIBA INU,shiba inu
+DAI-USD,Dai,dai
+MATIC-USD,Polygon,polygon
+WTRX-USD,Wrapped TRON,wrapped tron
+AVAX-USD,Avalanche,avalanche
+TRX-USD,TRON,tron
+STETH-USD,Lido stETH,lido steth
+WBTC-USD,Wrapped Bitcoin,wrapped bitcoin
+LEO-USD,UNUS SED LEO,unus sed leo
+ETC-USD,Ethereum Classic,ethereum classic
+,Uniswap,uniswap
+YOUC-USD,yOUcash,youcash
+LTC-USD,Litecoin,litecoin
+FTT-USD,FTX Token,ftx token
+ATOM-USD,Cosmos,cosmos
+LINK-USD,Chainlink,chainlink
+CRO-USD,Crypto.com Coin,crypto.com coin
+NEAR-USD,NEAR Protocol,near protocol
+XMR-USD,Monero,monero
+XLM-USD,Stellar,stellar
+BCH-USD,Bitcoin Cash,bitcoin cash
+BTCB-USD,Bitcoin BEP2,bitcoin bep2
+ALGO-USD,Algorand,algorand
+FLOW-USD,Flow,flow
+VET-USD,VeChain,vechain
+,Chain,chain
+,Toncoin,toncoin
+EOS-USD,EOS,eos
+FIL-USD,Filecoin,filecoin
+ICP-USD,Internet Computer,internet computer
+,ApeCoin,apecoin
+MANA-USD,Decentraland,decentraland
+FRAX-USD,Frax,frax
+SAND-USD,The Sandbox,the sandbox
+XTZ-USD,Tezos,tezos
+HBAR-USD,Hedera,hedera
+CHZ-USD,Chiliz,chiliz
+WBNB-USD,Wrapped BNB,wrapped bnb
+QNT-USD,Quant,quant
+EGLD-USD,Elrond,elrond
+AAVE-USD,Aave,aave
+THETA-USD,THETA,theta
+AXS-USD,Axie Infinity,axie infinity
+,BitDAO,bitdao
+TUSD-USD,TrueUSD,trueusd
+BSV-USD,Bitcoin SV,bitcoin sv
+OKB-USD,OKB,okb
+ZEC-USD,Zcash,zcash
+USDP-USD,Pax Dollar,pax dollar
+KCS-USD,KuCoin Token,kucoin token
+BTT-USD,BitTorrent,bittorrent
+LUNA1-USD,Terra,terra
+,BitTorrent (new),bittorrent (new)
+HBTC-USD,Huobi BTC,huobi btc
+MIOTA-USD,IOTA,iota
+HT-USD,Huobi Token,huobi token
+HNT-USD,Helium,helium
+MKR-USD,Maker,maker
+USDD-USD,USDD,usdd
+KLAY-USD,Klaytn,klaytn
+,The Graph,the graph
+FTM-USD,Fantom,fantom
+XEC-USD,eCash,ecash
+,Neutrino,neutrino
+RUNE-USD,THORChain,thorchain
+SNX-USD,Synthetix,synthetix
+NEO-USD,Neo,neo
+PAXG-USD,PAX Gold,pax gold
+LDO-USD,Lido DAO Token,lido dao token
+CRV-USD,Curve DAO Token,curve dao token
+CAKE-USD,PancakeSwap,pancakeswap
+NEXO-USD,Nexo,nexo
+BAT-USD,Basic Attention Token,basic attention token
+WAVES-USD,Waves,waves
+DASH-USD,Dash,dash
+STX-USD,Stacks,stacks
+ZIL-USD,Zilliqa,zilliqa
+LRC-USD,Loopring,loopring
+ENJ-USD,Enjin Coin,enjin coin
+DFI-USD,DeFiChain,defichain
+,Green Metaverse Token,green metaverse token
+MINA-USD,Mina,mina
+DCR-USD,Decred,decred
+BTG-USD,Bitcoin Gold,bitcoin gold
+XAUT-USD,Tether Gold,tether gold
+KAVA-USD,Kava,kava
+,Fei,fei
+GNO-USD,Gnosis,gnosis
+XEM-USD,NEM,nem
+1INCH-USD,1inch Network,1inch network
+KSM-USD,Kusama,kusama
+AR-USD,Arweave,arweave
+CELO-USD,Celo,celo
+ANKR-USD,Ankr,ankr
+HOT1-USD,Holo,holo
+CVX-USD,Convex Finance,convex finance
+GALA-USD,Gala,gala
+XDC-USD,XDC Network,xdc network
+COMP1-USD,Compound,compound
+GT-USD,GateToken,gatetoken
+MV-USD,GensoKishi’s Metaverse,gensokishi’s metaverse
+OSMO-USD,Osmosis,osmosis
+TFUEL-USD,Theta Fuel,theta fuel
+QTUM-USD,Qtum,qtum
+NXM-USD,NXM,nxm
+YFI-USD,yearn.finance,yearn.finance
+ROSE-USD,Oasis Network,oasis network
+CCXX-USD,Counos X,counos x
+RVN-USD,Ravencoin,ravencoin
+KDA-USD,Kadena,kadena
+SAFEMOON-USD,SafeMoon,safemoon
+GUSD-USD,Gemini Dollar,gemini dollar
+KNC-USD,Kyber Network Crystal v2,kyber network crystal v2
+IOTX-USD,IoTeX,iotex
+AMP-USD,Amp,amp
+ZEON-USD,ZEON,zeon
+T-USD,Threshold,threshold
+BORA-USD,BORA,bora
+WEMIX-USD,WEMIX,wemix
+LPT-USD,Livepeer,livepeer
+UST-USD,TerraUSD,terrausd
+BAL-USD,Balancer,balancer
+XYM-USD,Symbol,symbol
+OMG-USD,OMG Network,omg network
+BNX-USD,BinaryX,binaryx
+,Harmony,harmony
+,Optimism,optimism
+ENS-USD,Ethereum Name Service,ethereum name service
+ICX-USD,ICON,icon
+ZRX-USD,0x,0x
+JST-USD,JUST,just
+GLM-USD,Golem,golem
+RSR-USD,Reserve Rights,reserve rights
+,Safe,safe
+IOST-USD,IOST,iost
+AUDIO-USD,Audius,audius
+HIVE-USD,Hive,hive
+STORJ-USD,Storj,storj
+RPL-USD,Rocket Pool,rocket pool
+FLUX-USD,Flux,flux
+CEL-USD,Celsius,celsius
+LN-USD,LINK,link
+WAXP-USD,WAX,wax
+ONT-USD,Ontology,ontology
+,Terra,terra
+SRM-USD,Serum,serum
+FRTS-USD,Fruits,fruits
+SC-USD,Siacoin,siacoin
+GLMR-USD,Moonbeam,moonbeam
+ZEN-USD,Horizen,horizen
+BTRST-USD,Braintrust,braintrust
+SCRT-USD,Secret,secret
+MXC-USD,MXC,mxc
+,Liquity,liquity
+UMA-USD,UMA,uma
+ABBC-USD,ABBC Coin,abbc coin
+SXP-USD,Swipe,swipe
+,Immutable X,immutable x
+XCH-USD,Chia Network,chia network
+DNA1-USD,Metaverse Dualchain Network Architecture,metaverse dualchain network architecture
+BTCST-USD,Bitcoin Standard Hashrate Token,bitcoin standard hashrate token
+SKL-USD,SKALE Network,skale network
+POLY-USD,Polymath,polymath
+WOO-USD,WOO Network,woo network
+CHSB-USD,SwissBorg,swissborg
+,Synapse,synapse
+VGX-USD,Voyager Token,voyager token
+SLP-USD,Smooth Love Potion,smooth love potion
+CSPR-USD,Casper,casper
+DGB-USD,DigiByte,digibyte
+ELON-USD,Dogelon Mars,dogelon mars
+HUSD-USD,HUSD,husd
+,APENFT,apenft
+BABYDOGE-USD,Baby Doge Coin,baby doge coin
+VVS-USD,VVS Finance,vvs finance
+DAO-USD,DAO Maker,dao maker
+,PlayDapp,playdapp
+ASTR-USD,Astar,astar
+SSV-USD,ssv.network,ssv.network
+CVC-USD,Civic,civic
+CEEK-USD,CEEK VR,ceek vr
+METIS-USD,MetisDAO,metisdao
+SPELL-USD,Spell Token,spell token
+SUSHI-USD,SushiSwap,sushiswap
+LSK-USD,Lisk,lisk
+KEEP-USD,Keep Network,keep network
+PUNDIX-USD,Pundi X,pundi x
+EWT-USD,Energy Web Token,energy web token
+,Ellipsis,ellipsis
+CKB-USD,Nervos Network,nervos network
+RNDR-USD,Render Token,render token
+MAID-USD,MaidSafeCoin,maidsafecoin
+MED-USD,MediBloc,medibloc
+HUM-USD,Humanscape,humanscape
+CELR-USD,Celer Network,celer network
+CFG-USD,Centrifuge,centrifuge
+RACA-USD,Radio Caca,radio caca
+MVL-USD,MVL,mvl
+EURS-USD,STASIS EURO,stasis euro
+CFX-USD,Conflux,conflux
+CBG-USD,Chainbing,chainbing
+,Stargate Finance,stargate finance
+REN-USD,Ren,ren
+XNO-USD,Nano,nano
+LOOKS-USD,LooksRare,looksrare
+WIN-USD,WINkLink,winklink
+INJ-USD,Injective Protocol,injective protocol
+,Ontology Gas,ontology gas
+NU-USD,NuCypher,nucypher
+PLTC-USD,PlatonCoin,platoncoin
+EVER-USD,Everscale,everscale
+PEOPLE-USD,ConstitutionDAO,constitutiondao
+WEVER-USD,Wrapped Everscale,wrapped everscale
+REQ-USD,Request,request
+ORBS-USD,Orbs,orbs
+DYDX-USD,dYdX,dydx
+FX-USD,Function X,function x
+,USDX [Kava],usdx [kava]
+ARDR-USD,Ardor,ardor
+UOS-USD,Ultra,ultra
+RLY-USD,Rally,rally
+NMR-USD,Numeraire,numeraire
+TRIBE-USD,Tribe,tribe
+POWR-USD,Powerledger,powerledger
+MX-USD,MX Token,mx token
+C,Venus,venus
+RLC-USD,iExec RLC,iexec rlc
+ERG-USD,Ergo,ergo
+ORC-USD,Orbit Chain,orbit chain
+SUSD-USD,sUSD,susd
+COTI-USD,COTI,coti
+SNT-USD,Status,status
+PROM-USD,Prometeus,prometeus
+VLX-USD,Velas,velas
+ANY-USD,Anyswap,anyswap
+XYO-USD,XYO,xyo
+TEL-USD,Telcoin,telcoin
+API3-USD,API3,api3
+,Acala Token,acala token
+WVLX-USD,Wrapped Velas,wrapped velas
+,Metacraft,metacraft
+FXS-USD,Frax Share,frax share
+AVINOC-USD,AVINOC,avinoc
+DAG-USD,Constellation,constellation
+OCEAN-USD,Ocean Protocol,ocean protocol
+CHR-USD,Chromia,chromia
+BNT-USD,Bancor,bancor
+DENT-USD,Dent,dent
+NEST-USD,NEST Protocol,nest protocol
+SYS-USD,Syscoin,syscoin
+STEEM-USD,Steem,steem
+,Project Galaxy,project galaxy
+CTSI-USD,Cartesi,cartesi
+RAY-USD,Raydium,raydium
+FUN-USD,FUNToken,funtoken
+UQC-USD,Uquid Coin,uquid coin
+STRAX-USD,Stratis,stratis
+C98-USD,Coin98,coin98
+REP-USD,Augur,augur
+TRAC-USD,OriginTrail,origintrail
+BSW-USD,Biswap,biswap
+,Revain,revain
+ARRR-USD,Pirate Chain,pirate chain
+PYR-USD,Vulcan Forged PYR,vulcan forged pyr
+BICO-USD,BICONOMY (BICO),biconomy (bico)
+MPL-USD,Maple,maple
+HXRO-USD,Hxro,hxro
+JOE-USD,JOE,joe
+ADS-USD,Adshares,adshares
+STMX-USD,StormX,stormx
+,Aurora,aurora
+MTL-USD,Metal,metal
+LQTY-USD,Liquity,liquity
+LYXE-USD,LUKSO,lukso
+XPRT-USD,Persistence,persistence
+MOB-USD,MobileCoin,mobilecoin
+CTK-USD,CertiK,certik
+,Bifrost (BFC),bifrost (bfc)
+WRX-USD,WazirX,wazirx
+SURE-USD,inSure DeFi,insure defi
+EUROC-USD,Euro Coin,euro coin
+CTC-USD,Creditcoin,creditcoin
+STPT-USD,Standard Tokenization Protocol,standard tokenization protocol
+REEF-USD,Reef,reef
+,Mdex,mdex
+VTHO-USD,VeThor Token,vethor token
+FORTH-USD,Ampleforth Governance Token,ampleforth governance token
+ELF-USD,aelf,aelf
+OXT-USD,Orchid,orchid
+XWC-USD,WhiteCoin,whitecoin
+RENBTC-USD,renBTC,renbtc
+RKN-USD,Rakon,rakon
+,UFO Gaming,ufo gaming
+NKN-USD,NKN,nkn
+BOBA-USD,Boba Network,boba network
+OGN-USD,Origin Protocol,origin protocol
+FWT-USD,Freeway Token,freeway token
+LOOM-USD,Loom Network,loom network
+SFUND-USD,Seedify.fund,seedify.fund
+,Mrweb Finance V2,mrweb finance v2
+ACH-USD,Alchemy Pay,alchemy pay
+VERI-USD,Veritaseum,veritaseum
+MOVR-USD,Moonriver,moonriver
+TLM-USD,Alien Worlds,alien worlds
+PERP-USD,Perpetual Protocol,perpetual protocol
+SSX-USD,SOMESING,somesing
+RBTC-USD,RSK Smart Bitcoin,rsk smart bitcoin
+QKC-USD,QuarkChain,quarkchain
+XVS-USD,Venus,venus
+ALICE-USD,MyNeighborAlice,myneighboralice
+FET-USD,Fetch.ai,fetch.ai
+ALEPH-USD,Aleph.im,aleph.im
+DAWN-USD,Dawn Protocol,dawn protocol
+BOND-USD,BarnBridge,barnbridge
+TRB-USD,Tellor,tellor
+ANT-USD,Aragon,aragon
+META-USD,Metadium,metadium
+1ECO-USD,1eco,1eco
+STRK-USD,Strike,strike
+YGG-USD,Yield Guild Games,yield guild games
+ARK-USD,Ark,ark
+RGT-USD,Rari Governance Token,rari governance token
+BLOK-USD,Bloktopia,bloktopia
+GHST-USD,Aavegotchi,aavegotchi
+SOLO-USD,Sologenic,sologenic
+HEDG-USD,HedgeTrade,hedgetrade
+WXT-USD,Wirex Token,wirex token
+TITAN-USD,TitanSwap,titanswap
+SUN-USD,Sun (New),sun (new)
+UTK-USD,Utrust,utrust
+LOCUS-USD,Locus Chain,locus chain
+RIF-USD,RSK Infrastructure Framework,rsk infrastructure framework
+GTN-USD,GlitzKoin,glitzkoin
+VBUSD-USD,Venus BUSD,venus busd
+IQ-USD,Everipedia,everipedia
+CORE-USD,cVault.finance,cvault.finance
+SANTOS-USD,Santos FC Fan Token,santos fc fan token
+PRO-USD,Propy,propy
+MBL-USD,MovieBloc,moviebloc
+CENNZ-USD,Centrality,centrality
+BZRX-USD,bZx Protocol,bzx protocol
+BETA-USD,Beta Finance,beta finance
+ALPHA-USD,Alpha Finance Lab,alpha finance lab
+ASD-USD,ASD,asd
+VAI-USD,Vai,vai
+ILV-USD,Illuvium,illuvium
+,SuperFarm,superfarm
+AMPL-USD,Ampleforth,ampleforth
+TLOS-USD,Telos,telos
+GXC-USD,GXChain,gxchain
+MFT-USD,Hifi Finance,hifi finance
+DEP-USD,DEAPcoin,deapcoin
+XSGD-USD,XSGD,xsgd
+DUSK-USD,Dusk Network,dusk network
+DAR-USD,Mines of Dalarnia,mines of dalarnia
+POLS-USD,Polkastarter,polkastarter
+TT-USD,Thunder Token,thunder token
+VRA-USD,Verasity,verasity
+CUSD-USD,Celo Dollar,celo dollar
+DESO-USD,Decentralized Social,decentralized social
+XVG-USD,Verge,verge
+AERGO-USD,Aergo,aergo
+MBOX-USD,MOBOX,mobox
+DKA-USD,dKargo,dkargo
+BAKE-USD,BakeryToken,bakerytoken
+MLN-USD,Enzyme,enzyme
+XCAD-USD,XCAD Network,xcad network
+BADGER-USD,Badger DAO,badger dao
+YOOSHI-USD,YooShi,yooshi
+DERO-USD,Dero,dero
+DPI-USD,DeFi Pulse Index,defi pulse index
+WOZX-USD,EFFORCE,efforce
+OUSD-USD,Origin Dollar,origin dollar
+LCX-USD,LCX,lcx
+ONUS-USD,ONUS,onus
+ASTRAFER-USD,Astrafer,astrafer
+,World Mobile Token,world mobile token
+DIVI-USD,Divi,divi
+TOMO-USD,TomoChain,tomochain
+ETN-USD,Electroneum,electroneum
+HUNT-USD,HUNT,hunt
+SERO-USD,Super Zero Protocol,super zero protocol
+ARPA-USD,ARPA Chain,arpa chain
+XPR-USD,Proton,proton
+COCOS-USD,Cocos-BCX,cocos-bcx
+XMON-USD,XMON,xmon
+IDEX-USD,IDEX,idex
+AGIX-USD,SingularityNET,singularitynet
+,H2O Dao,h2o dao
+LAZIO-USD,S.S. Lazio Fan Token,s.s. lazio fan token
+AXEL-USD,AXEL,axel
+MNGO-USD,Mango,mango
+KMD-USD,Komodo,komodo
+BAND-USD,Band Protocol,band protocol
+EXRD-USD,e-Radix,e-radix
+AETH-USD,Aetherius,aetherius
+SPS-USD,Splintershards,splintershards
+ALPINE-USD,Alpine F1 Team Fan Token,alpine f1 team fan token
+CULT-USD,Cult DAO,cult dao
+TIME-USD,Chrono.tech,chrono.tech
+POND-USD,Marlin,marlin
+PORTO-USD,FC Porto Fan Token,fc porto fan token
+SFP-USD,SafePal,safepal
+JASMY-USD,JasmyCoin,jasmycoin
+BLZ-USD,Bluzelle,bluzelle
+AKT-USD,Akash Network,akash network
+QUACK-USD,RichQUACK.com,richquack.com
+,Mrweb Finance,mrweb finance
+,mStable,mstable
+ORN-USD,Orion Protocol,orion protocol
+CRE-USD,Carry,carry
+RBN-USD,Ribbon Finance,ribbon finance
+RAMP-USD,RAMP,ramp
+HYN-USD,Hyperion,hyperion
+STARL-USD,Starlink,starlink
+AVA-USD,Travala.com,travala.com
+NOIA-USD,Syntropy,syntropy
+AIOZ-USD,AIOZ Network,aioz network
+,EverRise,everrise
+,Mask Network,mask network
+ALCX-USD,Alchemix,alchemix
+SAMO-USD,Samoyedcoin,samoyedcoin
+FLM-USD,Flamingo,flamingo
+XNC-USD,XeniosCoin,xenioscoin
+CON-USD,CONUN,conun
+WAN-USD,Wanchain,wanchain
+ELA-USD,Elastos,elastos
+BNANA-USD,Chimpion,chimpion
+TROY-USD,TROY,troy
+VEGA-USD,Vega Protocol,vega protocol
+YFII-USD,DFI.Money,dfi.money
+BMX-USD,BitMart Token,bitmart token
+ALPACA-USD,Alpaca Finance,alpaca finance
+RSS3-USD,RSS3,rss3
+WKAI-USD,Wrapped KardiaChain,wrapped kardiachain
+,TrueFi,truefi
+UNFI-USD,Unifi Protocol DAO,unifi protocol dao
+KAI-USD,KardiaChain,kardiachain
+FLETA-USD,FLETA,fleta
+NSBT-USD,Neutrino Token,neutrino token
+CXO-USD,CargoX,cargox
+AQT-USD,Alpha Quark Token,alpha quark token
+MEV-USD,MEVerse,meverse
+,BENQI,benqi
+TVK-USD,Terra Virtua Kolect,terra virtua kolect
+,Linear,linear
+MOC-USD,Moss Coin,moss coin
+KILT-USD,KILT Protocol,kilt protocol
+ONIT-USD,ONBUFF,onbuff
+RFR-USD,Refereum,refereum
+,REI Network,rei network
+LTO-USD,LTO Network,lto network
+CEUR-USD,Celo Euro,celo euro
+DX-USD,DxChain Token,dxchain token
+LA-USD,LATOKEN,latoken
+BEL-USD,Bella Protocol,bella protocol
+SBD-USD,Steem Dollars,steem dollars
+T,Venus,venus
+KOK-USD,KOK,kok
+QRDO-USD,Qredo,qredo
+,Gitcoin,gitcoin
+,FirmaChain,firmachain
+MONA-USD,MonaCoin,monacoin
+PRE-USD,Presearch,presearch
+BTS-USD,BitShares,bitshares
+KAR-USD,Karura,karura
+DIA-USD,DIA,dia
+HNS-USD,Handshake,handshake
+MC-USD,Merit Circle,merit circle
+ATOLO-USD,RIZON,rizon
+,Decentral Games,decentral games
+SNL-USD,Sport and Leisure,sport and leisure
+UPP-USD,Sentinel Protocol,sentinel protocol
+CLT-USD,CoinLoan,coinloan
+,Metahero,metahero
+,Alitas,alitas
+EGG-USD,Nestree,nestree
+,Wing Finance,wing finance
+NEX-USD,Nash,nash
+TKO-USD,Toko Token,toko token
+AE-USD,Aeternity,aeternity
+RMRK-USD,RMRK,rmrk
+HTR-USD,Hathor,hathor
+COVAL-USD,Circuits of Value,circuits of value
+COS-USD,Contentos,contentos
+ASM-USD,Assemble Protocol,assemble protocol
+CLV-USD,Clover Finance,clover finance
+CBK-USD,Cobak Token,cobak token
+BCD-USD,Bitcoin Diamond,bitcoin diamond
+,Anchor Protocol,anchor protocol
+LEVER-USD,LeverFi,leverfi
+ATA-USD,Automata Network,automata network
+SOUL-USD,Phantasma,phantasma
+,OpenDAO,opendao
+FARM-USD,Harvest Finance,harvest finance
+LON-USD,Tokenlon Network Token,tokenlon network token
+RSV-USD,Reserve,reserve
+SOFI-USD,RAI Finance,rai finance
+MLK-USD,MiL.k,mil.k
+USDK-USD,USDK,usdk
+,Beefy Finance,beefy finance
+AOG-USD,smARTOFGIVING,smartofgiving
+FIO-USD,FIO Protocol,fio protocol
+HOO-USD,Hoo Token,hoo token
+PHA-USD,Phala Network,phala network
+HI-USD,hi Dollar,hi dollar
+PIT-USD,Pitbull,pitbull
+BRG-USD,Bridge Oracle,bridge oracle
+HARD-USD,Kava Lend,kava lend
+IRIS-USD,IRISnet,irisnet
+PSG-USD,Paris Saint-Germain Fan Token,paris saint-germain fan token
+CET-USD,CoinEx Token,coinex token
+,GMT Token,gmt token
+TPT-USD,TokenPocket,tokenpocket
+BURGER-USD,Burger Swap,burger swap
+DNT-USD,district0x,district0x
+GODS-USD,Gods Unchained,gods unchained
+WNXM-USD,Wrapped NXM,wrapped nxm
+,Litentry,litentry
+DVI-USD,Dvision Network,dvision network
+BOSON-USD,Boson Protocol,boson protocol
+GRS-USD,Groestlcoin,groestlcoin
+ERN-USD,Ethernity Chain,ethernity chain
+AMO-USD,AMO Coin,amo coin
+RARI-USD,Rarible,rarible
+ICHI-USD,ICHI,ichi
+CTXC-USD,Cortex,cortex
+GAS-USD,Gas,gas
+HOGE-USD,Hoge Finance,hoge finance
+FOX-USD,Shapeshift FOX Token,shapeshift fox token
+OM-USD,MANTRA DAO,mantra dao
+LAT-USD,PlatON,platon
+UBT-USD,Unibright,unibright
+NCT-USD,PolySwarm,polyswarm
+STAKE-USD,STAKE,stake
+MSB-USD,Misbloc,misbloc
+DVF-USD,DeversiFi,deversifi
+OOKI-USD,Ooki Protocol,ooki protocol
+FIRO-USD,Firo,firo
+AGLD-USD,Adventure Gold,adventure gold
+KLV-USD,Klever,klever
+BAR-USD,FC Barcelona Fan Token,fc barcelona fan token
+HYDRA-USD,Hydra,hydra
+QOM-USD,Shiba Predator,shiba predator
+KP3R-USD,Keep3rV1,keep3rv1
+APM-USD,apM Coin,apm coin
+VXVS-USD,Venus XVS,venus xvs
+ZASH-USD,ZIMBOCASH,zimbocash
+AION-USD,Aion,aion
+MCRT-USD,MagicCraft,magiccraft
+DATA-USD,Streamr,streamr
+SOLVE-USD,SOLVE,solve
+KIN-USD,Kin,kin
+WILD-USD,Wilder World,wilder world
+KRT-USD,TerraKRW,terrakrw
+MITH-USD,Mithril,mithril
+CUDOS-USD,CUDOS,cudos
+ERC20-USD,ERC20,erc20
+,Tranchess,tranchess
+SNM-USD,SONM (BEP-20),sonm (bep-20)
+ULT-USD,Ultiledger,ultiledger
+TNB-USD,Time New Bank,time new bank
+KEY-USD,Selfkey,selfkey
+EFI-USD,Efinity Token,efinity token
+ADX-USD,Ambire AdEx,ambire adex
+EUM-USD,Elitium,elitium
+WTC-USD,Waltonchain,waltonchain
+STC-USD,Student Coin,student coin
+DPR-USD,Deeper Network,deeper network
+MWC-USD,MimbleWimbleCoin,mimblewimblecoin
+ROOK-USD,KeeperDAO,keeperdao
+,Manchester City Fan Token,manchester city fan token
+MAP-USD,MAP Protocol,map protocol
+BZZ-USD,Swarm,swarm
+FRONT-USD,Frontier,frontier
+FST-USD,1irstcoin,1irstcoin
+NWC-USD,Newscrypto,newscrypto
+NULS-USD,NULS,nuls
+QUICK-USD,QuickSwap,quickswap
+,Alethea Artificial Liquid Intelligence Token,alethea artificial liquid intelligence token
+DXD-USD,DXdao,dxdao
+,Genopets,genopets
+MIX-USD,MixMarvel,mixmarvel
+HDAO-USD,HyperDAO,hyperdao
+MNW-USD,Morpheus.Network,morpheus.network
+BOO-USD,Spookyswap,spookyswap
+BOO-USD,Spookyswap,spookyswap
+BEAM-USD,Beam,beam
+SWAP-USD,TrustSwap,trustswap
+AHT-USD,AhaToken,ahatoken
+MARO-USD,Maro,maro
+,SuperRare,superrare
+TOKE-USD,Tokemak,tokemak
+PRQ-USD,PARSIQ,parsiq
+GTO-USD,Gifto,gifto
+IHC-USD,Inflation Hedging Coin,inflation hedging coin
+CUBE-USD,Somnium Space Cubes,somnium space cubes
+DDX-USD,DerivaDAO,derivadao
+ROUTE-USD,Router Protocol,router protocol
+GYEN-USD,GYEN,gyen
+,GST,gst
+VELO-USD,Velo,velo
+FIDA-USD,Bonfida,bonfida
+FIS-USD,Stafi,stafi
+DREP-USD,Drep [new],drep [new]
+DAD-USD,DAD,dad
+VRSC-USD,VerusCoin,veruscoin
+CRTS-USD,Cratos,cratos
+VOXEL-USD,Voxies,voxies
+LOG-USD,Woodcoin,woodcoin
+APX-USD,ApolloX,apollox
+DERC-USD,DeRace,derace
+AKRO-USD,Akropolis,akropolis
+AURY-USD,Aurory,aurory
+BTM-USD,Bytom,bytom
+NRG-USD,Energi,energi
+SPA-USD,Sperax,sperax
+CQT-USD,Covalent,covalent
+SIX-USD,SIX,six
+,Defigram,defigram
+GET-USD,GET Protocol,get protocol
+SHPING-USD,SHPING,shping
+BTSE-USD,BTSE,btse
+,YIELD App,yield app
+HIGH-USD,Highstreet,highstreet
+WICC-USD,WaykiChain,waykichain
+MSOL-USD,MARINADE STAKED SOL,marinade staked sol
+TABOO-USD,TABOO TOKEN,taboo token
+MDT-USD,Measurable Data Token,measurable data token
+HEZ-USD,Hermez Network,hermez network
+PNK-USD,Kleros,kleros
+DOCK-USD,Dock,dock
+HOPR-USD,HOPR,hopr
+FSN-USD,Fusion,fusion
+,Xeno Token,xeno token
+KRD-USD,Krypton DAO,krypton dao
+BOA-USD,BOSAGORA,bosagora
+DEGO-USD,Dego Finance,dego finance
+GRID-USD,Grid+,grid+
+MVC-USD,MileVerse,mileverse
+VXV-USD,Vectorspace AI,vectorspace ai
+MATH-USD,MATH,math
+KRL-USD,Kryll,kryll
+PLU-USD,Pluton,pluton
+AUTO-USD,Auto,auto
+HANDY-USD,Handy,handy
+DGD-USD,DigixDAO,digixdao
+SOC-USD,All Sports,all sports
+ADP-USD,Adappter Token,adappter token
+NEBL-USD,Neblio,neblio
+AUCTION-USD,Bounce Finance Governance Token,bounce finance governance token
+DEXE-USD,DeXe,dexe
+DF-USD,dForce,dforce
+RAI-USD,Rai Reflex Index,rai reflex index
+NMC-USD,Namecoin,namecoin
+EVZ-USD,Electric Vehicle Zone,electric vehicle zone
+SLND-USD,Solend,solend
+BIDR-USD,BIDR,bidr
+PEAK-USD,PEAKDEFI,peakdefi
+XHV-USD,Haven Protocol,haven protocol
+USDJ-USD,USDJ,usdj
+BASIC-USD,BASIC,basic
+ZBC-USD,Zebec Protocol,zebec protocol
+PZM-USD,PRIZM,prizm
+DODO-USD,DODO,dodo
+RFOX-USD,RFOX,rfox
+VEED-USD,VIMworld,vimworld
+AST-USD,AirSwap,airswap
+SDAO-USD,SingularityDAO,singularitydao
+XDB-USD,DigitalBits,digitalbits
+,pNetwork,pnetwork
+QSP-USD,Quantstamp,quantstamp
+VIDT-USD,VIDT Datalink,vidt datalink
+SUKU-USD,SUKU,suku
+ABT-USD,Arcblock,arcblock
+,AC Milan Fan Token,ac milan fan token
+LOKA-USD,League of Kingdoms Arena,league of kingdoms arena
+BTRS-USD,Bitball Treasure,bitball treasure
+VITE-USD,VITE,vite
+CVP-USD,PowerPool,powerpool
+VBIT-USD,Valobit,valobit
+GARI-USD,Gari Network,gari network
+,Green Satoshi Token (ETH),green satoshi token (eth)
+ATLAS-USD,Star Atlas,star atlas
+OXEN-USD,Oxen,oxen
+MIR1-USD,Mirror Protocol,mirror protocol
